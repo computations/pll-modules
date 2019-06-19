@@ -1,4 +1,3 @@
-[submodule "libpll"]
+[submodule "libs/libpll"]
 	path = libs/libpll
-	url = https://github.com/computations/libpll-2.git
-	branch = nonrev
+	url = git@github.com:computations/libpll-2.git
